@@ -1,5 +1,5 @@
 # Financial-Analysis
-This repository contains a collection of projects developed as part of the *Finance with Big Data* course. It showcases the application of data science, statistical methods, and machine learning techniques to real-world financial problems.
+This repository contains a collection of projects developed as part of *20598 - Finance with Big Data* course. It showcases the application of data science, statistical methods, and machine learning techniques to real-world financial problems.
 
 ## Repository Structure
 
